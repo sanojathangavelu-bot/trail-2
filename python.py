@@ -1,9 +1,0 @@
-print("hello world")
-#echo "# trail1" >> README.md
-#git init
-#git git push origin main
-
-#git commit -m "first commit"
-#git branch -M main
-#git remote add origin https://github.com/sanojathangavelu-bot/trail1.git
-#git push -u origin main
